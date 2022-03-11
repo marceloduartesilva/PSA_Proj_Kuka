@@ -4,5 +4,3 @@ Projeto cadeira sistemas de automação
 11 Março 2022
 -> Criação repositório (Marcelo)
 -> Diagrama de Gantt
-
-->@Gonçalo vai trabalhar masé!
