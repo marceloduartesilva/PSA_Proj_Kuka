@@ -21,3 +21,10 @@ Programar interface : Visual Studio 2019
 IDE : PyCharm - OpenCV
 Organização : asana/excell
 PLC : TIA Portal
+Kuka : Simulador
+
+Robot Kuka - KR5
+Heidenhain 426
+Camera - P2X DataLogic, profinet
+SMC - pinça
+Pegar na peça -> colocar no centro CNC -> verificar qual peça através de visão -> daí o Heidenhain maquina consoante a peça -> retirar peça da máquina -> marcação laser (Data/hora/nº série)
