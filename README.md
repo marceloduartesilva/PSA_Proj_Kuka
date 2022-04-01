@@ -32,3 +32,9 @@ Pegar na peça -> colocar no centro CNC -> verificar qual peça através de vis�
 Aula 25/03
 Mockups: AXURE ou FIGMA - Softwares para demonstração, avaliação de design do modelo do projeto
 
+Aula 01/04
+Demonstração programa PYTHON câmera PC
+Demonstração movimentação robot Kuka
+Definição objetivos semanais (em ficheiro na pasta Gestão de Projeto)
+Começar desenho peças
+
