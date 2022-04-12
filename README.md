@@ -38,3 +38,9 @@ Demonstração movimentação robot Kuka
 Definição objetivos semanais (em ficheiro na pasta Gestão de Projeto)
 Começar desenho peças
 
+
+12/04/2022
+Protocolo lsv2
+Ativar/parar a maquina remotamente e start/stop programa
+
+mach3 deve aparecer na COM LPT1
