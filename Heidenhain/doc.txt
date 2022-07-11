@@ -1,1 +1,5 @@
-
+Comunicação TNC Cremo:
+Instalar driver conversor RS232 - USB
+Ver a COM no gestor de dispositivos
+Definir tipo de comunicação serial com Heidenhain
+BaudRate - 115200
